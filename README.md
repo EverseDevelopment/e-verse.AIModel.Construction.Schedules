@@ -1,6 +1,6 @@
 # e-verse.AIModel.Construction.Schedules
 
-[<img src="https://us-east-1.console.aws.amazon.com/s3/object/everse.assets?region=us-east-1&bucketType=general&prefix=GithubReadme/BuildingsDataSets.png">](https://github.com/EverseDevelopment/e-verse.AIModel.Construction.Schedules/wiki)
+[<img src="https://s3.amazonaws.com/everse.assets/GithubReadme/BuildingsDataSets.png">](https://github.com/EverseDevelopment/e-verse.AIModel.Construction.Schedules/wiki)
 <br/>
 
 This repo are a couple of machine learning models trained with the data of more than 70 buildings. We took the data from this [repo](https://github.com/EverseDevelopment/Buildings.Historical.Data) </h3>
